@@ -1,6 +1,6 @@
 import request from '@/utils/request'
 
-let localhostUrl = 'http://localhost:8201'
+const localhostUrl = 'http://localhost:8201'
 export default {
   // denglu
   login(loginObj) {
